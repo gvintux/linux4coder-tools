@@ -2,7 +2,7 @@
 
 ## Description
 
-Contains extra tools for `linux4coder` such
+Contains extra tools for `linux4coder`
 
 ## Requirements
 
@@ -20,3 +20,5 @@ Contains extra tools for `linux4coder` such
 * `mount_usb` USB mounting tool
 
 * `unmount_usb` USB unmounting tool
+
+* `backup_projects` backup tool
